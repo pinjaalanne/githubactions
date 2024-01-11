@@ -1,6 +1,6 @@
-# null_or_empty
+# Jenkins
+[![CI/CD](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml)
 
-[![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
 
 A simple Node.js package that checks, if a given string is null or empty.
 
@@ -24,4 +24,3 @@ Then, require the package and use it like so:
 
 MIT
 
-[![CI/CD](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml)
