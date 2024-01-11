@@ -23,3 +23,5 @@ Then, require the package and use it like so:
 ## License
 
 MIT
+
+[![CI/CD](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml)
