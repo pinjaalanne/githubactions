@@ -1,6 +1,6 @@
-# Jenkins
-[![CI/CD](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml)
+# GitHub Actions
 
+[![CI/CD](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/pinjaalanne/jenkins/actions/workflows/main.yml)
 
 A simple Node.js package that checks, if a given string is null or empty.
 
@@ -23,4 +23,3 @@ Then, require the package and use it like so:
 ## License
 
 MIT
-
